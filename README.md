@@ -55,9 +55,12 @@ Untuk tampilan Layout Bebas, terima kasih.
 ```
 
 ## Tugas 2
+![1 Mobile](https://github.com/rius23/Menu_Apps/assets/129859832/34ad587a-1067-46a8-9537-be7a86b873b3)
 
 
 ## Tugas 3
+![2 Mobile](https://github.com/rius23/Menu_Apps/assets/129859832/f0269bbe-f8d5-4ac6-814c-36fda8a1d613)
+
 
 > **Pada tugas 3 saya juga akan menambahkan video trailer di setiap film**
 
