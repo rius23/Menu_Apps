@@ -61,7 +61,7 @@ Untuk tampilan Layout Bebas, terima kasih.
 
 > **Pada tugas 3 saya juga akan menambahkan video trailer di setiap film**
 
-## Penjelasan
+## Penjelasan 1
 1. Launcher Splash Logo
 Pertama, yaitu membuat Launcher Splash Logo atau menampilkan logo / icon saat kita pertama kali membuka aplikasi.
 Caranya adalah :
@@ -1122,7 +1122,7 @@ findViewById(R.id.btnSetAlarm).setOnClickListener(new View.OnClickListener() {
 ```
 
 
-## Penjelasan
+## Penjelasan 2
 
 1. Menu Utama 
 Pertama yang harus kita lakukan adalah mengganti tampilan menu utamanya dengan code yang baru agar ikon tombol berubah menjadi gambar, caranya adalah :
@@ -2441,7 +2441,7 @@ private void openMaps(Uri geoLocation) {
 ```
 
 
-## Penjelasan
+## Penjelasan 3
 
 > Pada tugas 3 saya melakukan perubahan pada nama aplikasi, lalu gambar icon aplikasi dan juga pada splashscreen, untuk cara dan isi code nya sama seperti pada tugas 2 hanya menyesuaikan saja dengan yang baru.
 
