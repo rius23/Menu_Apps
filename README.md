@@ -21,17 +21,13 @@ Dosen Pengampu   : Donny Maulana, S.Kom., M.M.S.I.
 
 - **[Tugas 3](#tugas-3)**
 
-- **[Penjelasan & Hasil Program Tugas 1](#penjelasan--hasil-program-tugas-1)**
+- **[Penjelasan & Hasil Program Tugas 1](#penjelasan)**
 
-- **[Penjelasan & Hasil Program Tugas 2](#penjelasan--hasil-program-tugas-2)**
+- **[Penjelasan & Hasil Program Tugas 2](#penjelasan)**
 
-- **[Penjelasan & Hasil Program Tugas 3](#penjelasan--hasil-program-tugas-3)**
+- **[Penjelasan](#penjelasan)**
 
-- **[Demo Tugas 1](#demo-tugas-1)**
 
-- **[Demo Tugas 2](#demo-tugas-2)**
-
-- **[Demo Tugas 3](#demo-tugas-3)**
 
 
 ## Tugas 1 
@@ -65,7 +61,7 @@ Untuk tampilan Layout Bebas, terima kasih.
 
 > **Pada tugas 3 saya juga akan menambahkan video trailer di setiap film**
 
-## Penjelasan & Hasil Program Tugas 1
+## Penjelasan
 1. Launcher Splash Logo
 Pertama, yaitu membuat Launcher Splash Logo atau menampilkan logo / icon saat kita pertama kali membuka aplikasi.
 Caranya adalah :
@@ -1125,12 +1121,8 @@ findViewById(R.id.btnSetAlarm).setOnClickListener(new View.OnClickListener() {
 </activity>
 ```
 
-> **Hasil Program Tugas 1 :**  
-![WhatsApp Image 2023-11-19 at 19 11 46_b9d46af7](https://github.com/syifaaurellia/IntentProject/assets/115867244/1a9966db-3b54-40f0-a574-6140caeff726)
 
-
-
-## Penjelasan & Hasil Program Tugas 2
+## Penjelasan
 
 1. Menu Utama 
 Pertama yang harus kita lakukan adalah mengganti tampilan menu utamanya dengan code yang baru agar ikon tombol berubah menjadi gambar, caranya adalah :
@@ -2448,13 +2440,8 @@ private void openMaps(Uri geoLocation) {
         </activity>
 ```
 
-> **Hasil Program Tugas 2 :**
 
-![WhatsApp Image 2023-11-28 at 21 28 52_8da8d5d2](https://github.com/syifaaurellia/IntentProject2/assets/115867244/62ab10ca-0192-48a1-b22a-5d771d8fda4c)
-
-
-
-## Penjelasan & Hasil Program Tugas 3 
+## Penjelasan
 
 > Pada tugas 3 saya melakukan perubahan pada nama aplikasi, lalu gambar icon aplikasi dan juga pada splashscreen, untuk cara dan isi code nya sama seperti pada tugas 2 hanya menyesuaikan saja dengan yang baru.
 
