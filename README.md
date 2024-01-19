@@ -21,11 +21,11 @@ Dosen Pengampu   : Donny Maulana, S.Kom., M.M.S.I.
 
 - **[Tugas 3](#tugas-3)**
 
-- **[Penjelasan & Hasil Program Tugas 1](#penjelasan)**
+- **[Penjelasan 1](#penjelasan-1)**
 
-- **[Penjelasan & Hasil Program Tugas 2](#penjelasan)**
+- **[Penjelasan 2](#penjelasan-2)**
 
-- **[Penjelasan](#penjelasan)**
+- **[Penjelasan 3](#penjelasan-3)**
 
 
 
